@@ -12,7 +12,7 @@ I stay updated with the latest trends and best practices in web development to d
 
 **Currently Working with:**
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <img src="https://github.com/mottakinrahat/mottakinrahat/assets/109688801/1467ed4b-80e2-40c8-bba3-305d288bb487" alt="javascript" width="50" height="50">
   <img src="https://github.com/mottakinrahat/mottakinrahat/assets/109688801/9ac2007a-dcc6-433d-a881-404a9e0e3f27" alt="mongoDB" width="50" height="50">
