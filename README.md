@@ -24,5 +24,6 @@ I stay updated with the latest trends and best practices in web development to d
   <img src="https://github.com/mottakinrahat/mottakinrahat/assets/109688801/c9dd39b8-c7b0-4de2-9c0e-71bb7a23bd62" alt="html" width="50" height="50">
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="html" width="50" height="50">
   <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="html" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="html" width="50" height="50">
 
 </div>
