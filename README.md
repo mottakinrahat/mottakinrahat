@@ -1,4 +1,4 @@
-## ![bannerLinkedin][(https://github.com/mottakinrahat/mottakinrahat/assets/109688801/76679c66-6070-4a89-83e2-1f83b6b5844b](https://www.linkedin.com/in/md-mottakin-rahat/overlay/background-image/))
+## ![bannerLinkedin][(https://www.linkedin.com/in/md-mottakin-rahat/overlay/background-image)
 
 **Short Description:**
 
