@@ -1,4 +1,4 @@
-## !![Banner](https://res.cloudinary.com/dse4w3es9/image/upload/v1773137252/1772645137350_lilqlx.jpg)
+## [Banner](https://res.cloudinary.com/dse4w3es9/image/upload/v1773137252/1772645137350_lilqlx.jpg)
 
 **Short Description:**
 
