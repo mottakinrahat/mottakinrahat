@@ -67,8 +67,6 @@ I stay updated with the latest trends and best practices in web development to d
 
 ## 📊 Current Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mottakinrahat&theme=dark&border_radius=10)](https://git.io/streak-stats)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mottakinrahat&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mottakinrahat&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
